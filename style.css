@@ -1,0 +1,38 @@
+.div1{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.p1{
+
+  color: grey;  
+}
+.btn1{    
+  height: 50px;
+  width: 100px;
+  border-radius: 10px;
+    border:0px;
+    padding: 10px;
+    background-color: purple;
+    color: white;
+}
+.btn2{
+    border-radius: 10px;
+    border:0px;
+    padding: 10px;
+   background-color: rgba(51, 255, 0, 0.541);
+    color: whitesmoke;
+width: 100px;
+height: 50px;
+}
+.C{
+height: 50px;
+width: 50px;
+
+}
+.div2{
+
+    display: flex;
+    gap: 10px;
+
+}
